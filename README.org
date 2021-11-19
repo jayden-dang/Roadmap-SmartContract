@@ -2,15 +2,19 @@
 #+AUTHOR: DANG QUANG VU
 
 * Languages
-- Solidity
-- Javascript
+- =Solidity=
+  + Youtube: [[https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA][Smart Contract Programmer]]
+- =Javascript= : Front-end =(HTML,CSS,Reponsive,Javascript,NODEJS,REACT)=
+  + [[https://fullstack.edu.vn/][Fullstack.edu.vn]]
 - Go
-- =Rust=
-------------------------
-* Ethereum Blockchain
-- FrameWork Solidity
-  + Hardhat
-  + Truffle
+- =Rust= : [[https://doc.rust-lang.org/book/][Docs]]
+  - WASM - WebAssembly
+---------------------------
+* Ethereum Blockchain -EVM (Ethereum Virtual Machine)
+- FrameWork =Solidity=
+  Remix.ethereum.org
+  + =Hardhat=
+  + =Truffle=
 - Testing
 - Security
   + [[https://www.getastra.com/blog/security-audit/an-introduction-to-smart-contract-security/?utm_id=scsa.123&gclid=CjwKCAjwk6-LBhBZEiwAOUUDpyegGOJw6ofQ4HnD2ob23wz3pL59PFxFedQy4HTFkxrDYXWUHJbdVxoCD08QAvD_BwE][An Introduction to Smart Contract Security]]
@@ -20,21 +24,22 @@
 * [[https://docs.openzeppelin.com/upgrades-plugins/1.x/][Upgrade Smart Contract]]
 * [[https://eips.ethereum.org/all][Improvement Proposals - EIP]]
 ------Front-End------
+* DApps
+- React
+- DWeb
+  + IPFS
+  + Fleek
 * Web3
 - [[https://web3js.readthedocs.io/en/v1.2.9/web3-eth-personal.html#ecrecover][Web3js]]
 - [[https://web3py.readthedocs.io/en/stable/][Web3.py]]
-- Abi generation
+- Abigen - ABI Generation
   + Language Supports
     - Go (Default)
     - Java
     - C++
   + TypeChain
     - TypeScript
-* DApps
-- React
-- DWeb
-  + IPFS
-  + Fleek
+
 * Real Project
 - DEX
   + [[https://uniswap.org/][UniSwap]]
