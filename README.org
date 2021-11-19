@@ -36,8 +36,8 @@
 ***** eth-sig-util
 **** Real Project
 ***** DEX
-****** UniSwap
-****** PancakeSwap
+- UniSwap
+- PancakeSwap
 ***** Ocean
 ***** Multi-sig Wallet
 ***** MetaTransaction
