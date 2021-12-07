@@ -3,48 +3,48 @@
 
 * Technial Positioning
 ** Front-End
-- Basic: HTML, CSS -> BOOTTRAP -> JAVASCRIPT -> NODEJS -> REACT
+- Basic: =HTML, CSS -> BOOTTRAP= -> =JAVASCRIPT -> NODEJS -> REACT=
   + http://fullstack.edu.vn
-- Advance: NEXT JS | TYPESCRIPT || REACT NATIVE
+- Advance: =NEXT JS | TYPESCRIPT= || =REACT NATIVE=
   + [[https://www.youtube.com/c/EasyFrontend][Easy Frontend]]
 - Tích Hợp Các ví <Metamask ....etc>
-- Web3Js, Drizzle
+- =Web3Js=, =Drizzle=
 
 ** Back-End | Smart Contract
 - Ethereum Blockchain
-- EVM - Ethereum Virtual Machine
+- EVM - =Ethereum Virtual Machine=
   + Language
-    - Solidity | Vyper | FE => EVM ( ETH, BSC )
-    - Rust => Solana / Near / Polkadot ... (DIEM, DFINITY)
+    - =Solidity= | Vyper | FE => EVM ( ETH, BSC )
+    - =Rust= => Solana / Near / Polkadot ... (DIEM, DFINITY)
     - Go
-- Token Standard
+- =Token Standard=
   + ERC721
   + ERC20
-  + ERC1155
+  + =ERC1155=
   + ERC777
 - Technial
-  + Design Custom Protocols
-  + Testing Smart Contract
-  + Security Challenger
+  + =Design Custom Protocols=
+  + =Testing Smart Contract=
+  + =Security Challenger=
   + Optimize Smart Contract for Gas
-- Truffle
+- =Truffle=
 - Remix
-- Openzeppelin
+- =Openzeppelin=
 - Security Tools : Mithril
 
 ** Devops
-- Deploy Smart Contracts for Testnet, Mainnet
-- Deploy for front-end Decentralized Application
-- Connect to Smart Contract
-- Handle Private Key
-- Hyper Ledger
+- =Deploy= Smart Contracts for Testnet, Mainnet
+- Deploy for =front-end Decentralized Application=
+- =Connect= to Smart Contract
+- =Handle Private Key=
+- =Hyper Ledger=
 ** FullStack
 * Bussiness domain Positioning
 - Games & Gambling
-  + Random number with gas less transaction
-  + Fast Transaction
+  + Random number with =gas less transaction=
+  + =Fast Transaction=
 - DeFi
-  + Defi Protocols
-    - DAI / UNISWAP / COMPOUND
-- Enterprise Blockchain
+  + =Defi Protocols=
+    - =DAI / UNISWAP / COMPOUND=
+- =Enterprise Blockchain=
   + Permissioning & Private
