@@ -15,14 +15,17 @@
 - EVM - =Ethereum Virtual Machine=
   + Language
     - =Solidity= | Vyper | FE => EVM ( ETH, BSC )
+      + [[https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA][Smart Contract Programmer]]
     - =Rust= => Solana / Near / Polkadot ... (DIEM, DFINITY)
+      + [[https://www.youtube.com/c/LetsGetRusty][Let's Get  Rusty]] - English
+      + [[https://www.youtube.com/c/laptrinhblockchaincungvu][Lập Trình Blockchain cùng Vũ]]
     - Go
 - =Token Standard=
   + ERC721
   + ERC20
   + =ERC1155=
   + ERC777
-- Technial
+- Technical
   + =Design Custom Protocols=
   + =Testing Smart Contract=
   + =Security Challenger=
@@ -30,7 +33,7 @@
 - =Truffle=
 - Remix
 - =Openzeppelin=
-- Security Tools : Mithril
+- [[https://github.com/ConsenSys/mythril][Security Tools : Mithril]]
 
 ** Devops
 - =Deploy= Smart Contracts for Testnet, Mainnet
