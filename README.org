@@ -1,49 +1,50 @@
 #+TITLE: Roadmap for Smart Contract Developer
 #+AUTHOR: DANG QUANG VU
 
-* Languages
-- =Solidity=
-  + Youtube: [[https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA][Smart Contract Programmer]]
-- =Javascript= : Front-end =(HTML,CSS,Reponsive,Javascript,NODEJS,REACT)=
-  + [[https://fullstack.edu.vn/][Fullstack.edu.vn]]
-- Go
-- =Rust= : [[https://doc.rust-lang.org/book/][Docs]]
-  - WASM - WebAssembly
----------------------------
-* Ethereum Blockchain -EVM (Ethereum Virtual Machine)
-- FrameWork =Solidity=
-  Remix.ethereum.org
-  + =Hardhat=
-  + =Truffle=
-- Testing
-- Security
-  + [[https://www.getastra.com/blog/security-audit/an-introduction-to-smart-contract-security/?utm_id=scsa.123&gclid=CjwKCAjwk6-LBhBZEiwAOUUDpyegGOJw6ofQ4HnD2ob23wz3pL59PFxFedQy4HTFkxrDYXWUHJbdVxoCD08QAvD_BwE][An Introduction to Smart Contract Security]]
-  + Tools
-    - [[https://github.com/crytic/slither/wiki/Detector-Documentation][Slither]]
-    - [[https://github.com/trailofbits/manticore][Manticore]]
-* [[https://docs.openzeppelin.com/upgrades-plugins/1.x/][Upgrade Smart Contract]]
-* [[https://eips.ethereum.org/all][Improvement Proposals - EIP]]
-------Front-End------
-* DApps
-- React
-- DWeb
-  + IPFS
-  + Fleek
-* Web3
-- [[https://web3js.readthedocs.io/en/v1.2.9/web3-eth-personal.html#ecrecover][Web3js]]
-- [[https://web3py.readthedocs.io/en/stable/][Web3.py]]
-- Abigen - ABI Generation
-  + Language Supports
-    - Go (Default)
-    - Java
-    - C++
-  + TypeChain
-    - TypeScript
+* Technial Positioning
+** Front-End
+- Basic: HTML, CSS -> BOOTTRAP -> JAVASCRIPT -> NODEJS -> REACT
+  + http://fullstack.edu.vn
+- Advance: NEXT JS | TYPESCRIPT || REACT NATIVE
+  + [[https://www.youtube.com/c/EasyFrontend][Easy Frontend]]
+- Tích Hợp Các ví <Metamask ....etc>
+- Web3Js, Drizzle
 
-* Real Project
-- DEX
-  + [[https://uniswap.org/][UniSwap]]
-  + [[https://pancakeswap.finance/][PancakeSwap]]
-- [[https://market.oceanprotocol.com/][Ocean]]
-- [[https://wallet.gnosis.io/#/wallets][Multi-sig Wallet]]
-- [[https://docs.openzeppelin.com/contracts/4.x/api/metatx][MetaTransaction]]
+** Back-End | Smart Contract
+- Ethereum Blockchain
+- EVM - Ethereum Virtual Machine
+  + Language
+    - Solidity | Vyper | FE => EVM ( ETH, BSC )
+    - Rust => Solana / Near / Polkadot ... (DIEM, DFINITY)
+    - Go
+- Token Standard
+  + ERC721
+  + ERC20
+  + ERC1155
+  + ERC777
+- Technial
+  + Design Custom Protocols
+  + Testing Smart Contract
+  + Security Challenger
+  + Optimize Smart Contract for Gas
+- Truffle
+- Remix
+- Openzeppelin
+- Security Tools : Mithril
+
+** Devops
+- Deploy Smart Contracts for Testnet, Mainnet
+- Deploy for front-end Decentralized Application
+- Connect to Smart Contract
+- Handle Private Key
+- Hyper Ledger
+** FullStack
+* Bussiness domain Positioning
+- Games & Gambling
+  + Random number with gas less transaction
+  + Fast Transaction
+- DeFi
+  + Defi Protocols
+    - DAI / UNISWAP / COMPOUND
+- Enterprise Blockchain
+  + Permissioning & Private
